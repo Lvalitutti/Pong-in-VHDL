@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.vhd</arg>&quot; line <arg fmt="%d" index="2">127</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">icon</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.vhd</arg>&quot; line <arg fmt="%d" index="2">130</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">ila</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">SW1</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">SW3</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">y_vec&lt;9:4&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">x_vec&lt;9:4&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="1474" delta="old" >Core &lt;<arg fmt="%s" index="1">icon</arg>&gt; was not loaded for &lt;<arg fmt="%s" index="2">ICON_INST</arg>&gt; as one or more ports did not line up with component declaration.  Declared <arg fmt="%s" index="3">output</arg> port &lt;<arg fmt="%s" index="4">CONTROL0&lt;3&gt;</arg>&gt; was not found in the core.  Please make sure that component declaration ports are consistent with the core ports including direction and bus-naming conventions.
+</msg>
+
+<msg type="warning" file="Xst" num="1474" delta="old" >Core &lt;<arg fmt="%s" index="1">ila</arg>&gt; was not loaded for &lt;<arg fmt="%s" index="2">ILA_INST</arg>&gt; as one or more ports did not line up with component declaration.  Declared <arg fmt="%s" index="3">input</arg> port &lt;<arg fmt="%s" index="4">CONTROL&lt;3&gt;</arg>&gt; was not found in the core.  Please make sure that component declaration ports are consistent with the core ports including direction and bus-naming conventions.
+</msg>
+
+</messages>
+

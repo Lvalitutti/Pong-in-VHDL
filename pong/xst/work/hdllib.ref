@@ -1,0 +1,12 @@
+AR ila ila_a "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/ipcore_dir/ila.vhd" sub00/vhpl09 1763585557
+AR icon icon_a "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/ipcore_dir/icon.vhd" sub00/vhpl07 1763585555
+EN icon NULL "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/ipcore_dir/icon.vhd" sub00/vhpl06 1763585554
+AR renderer behavioral "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/renderer.vhd" sub00/vhpl05 1763585553
+AR vga_core behavioral "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/vga_core.vhd" sub00/vhpl03 1763585549
+EN game_engine NULL "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/game_engine.vhd" sub00/vhpl10 1763585550
+EN vga_core NULL "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/vga_core.vhd" sub00/vhpl02 1763585548
+EN renderer NULL "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/renderer.vhd" sub00/vhpl04 1763585552
+AR game_engine behavioral "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/game_engine.vhd" sub00/vhpl11 1763585551
+EN svgp_top NULL "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.vhd" sub00/vhpl00 1763585558
+AR svgp_top behavioral "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.vhd" sub00/vhpl01 1763585559
+EN ila NULL "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/ipcore_dir/ila.vhd" sub00/vhpl08 1763585556
